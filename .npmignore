@@ -1,0 +1,10 @@
+tests/
+test/
+__snapshots__
+**/__mocks__/**
+**/__tests__/**
+**/examples/**
+**/tasks/**
+.github/
+renovate.json
+
